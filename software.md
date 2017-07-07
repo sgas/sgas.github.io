@@ -9,7 +9,8 @@ permalink: /software/
 ### LUTS
 
 
-LUTS Service 3.8.0 [Download](http://www.sgas.se/releases/sgas-luts-service-3.8.0.tar.gz) (released Mars 10th 2015).
+LUTS Service 3.8.1
+[Download](https://github.com/sgas/luts3-service/archive/sgas-3.8.1.tar.gz) (released July 6th 2017).
 
 LUTS Client 3.4.0 [Download](http://www.sgas.se/releases/sgas-luts-client-3.4.0.tar.gz) (released November 19th 2010).
 
@@ -27,7 +28,7 @@ For installation instructions, see the README files and docs in tarballs
 
 ## Previous releases
 
-See the [release directory](http://www.sgas.se/releases/)
+See the [release directory](https://github.com/sgas/luts3-service/releases)
 
 ## Source
 
