@@ -6,5 +6,9 @@ categories: release
 ---
 [ChangeLog](https://github.com/sgas/luts3-service/blob/sgas-3.8.1/ChangeLog)
 
+[Downloads](https://github.com/sgas/luts3-service/releases/tag/sgas-3.8.1)
+
 Bug fix release.  No changes to database or configuration file should
 be needed.
+
+
